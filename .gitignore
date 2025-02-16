@@ -1,0 +1,8 @@
+black_files
+white_files
+scan_files
+renamer
+.venv
+black_images
+white_images
+.DS_Store
